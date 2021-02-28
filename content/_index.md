@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/2.jpg
     image_alt: App preview
-    title: Everyone is on the Phone
+    title: Everyone is on the Phone ADHD a GoGo
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
