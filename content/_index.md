@@ -11,7 +11,7 @@ sections:
       who need a sleek, modern SaaS site. 
     actions:
       - label: Dream More
-        url: 
+        url: /features
         style: primary
   - section_id: features
     type: section_features
