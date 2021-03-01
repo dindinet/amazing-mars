@@ -11,7 +11,7 @@ sections:
       who need a sleek, modern SaaS site. 
     actions:
       - label: Dream More
-        url: https://res.cloudinary.com/dklongley/image/upload/v1553773515/AG2/portofino_leoks_shutterstock.jpg
+        url: 
         style: primary
   - section_id: features
     type: section_features
