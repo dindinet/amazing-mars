@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: https://res.cloudinary.com/dklongley/image/upload/73515/AG2/portofino_leoks_shutterstock.jpg
+    image: https://res.cloudinary.com/dklongley/image/upload/AG2/portofino_leoks_shutterstock.jpg
     image_alt: App preview
     title: Everyone is on the Phone ADHD a GoGo
     content: >-
