@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: https://starter-gatsby-aeef9.netlify.app/images/lemons.png
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
     content: >-
