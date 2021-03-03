@@ -20,8 +20,7 @@ sections:
       * Phasellus ut enim non lorem venenatis rutrum.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
     actions:
       - label: Free Trial
         url: /signup
