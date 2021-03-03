@@ -1,4 +1,4 @@
-title: Azimuth
+title: Oranges
 baseURL: /
 params:
   base_font: nunito-sans
@@ -29,7 +29,7 @@ params:
         image: images/logo.svg
         image_url: /
         image_alt: Footer logo
-        content: 
+        content: null
       - type: footer_nav
         title: Company
         nav_links:
