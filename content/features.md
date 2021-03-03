@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
     content: >-
-      That . Sed nulla nibh, dapibus sit amet
+      That exciting zesty flavour. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
 
