@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cool Feature of Your Services
-        image: images/feature3.png
+        image: https://starter-gatsby-aeef9.netlify.app/images/nice-oranges.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
