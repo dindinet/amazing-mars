@@ -10,7 +10,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 layout: post
-author: data/authors/person-d5xranvfb.json
+author: data/authors/the-dindino.json
 image: 'https://res.cloudinary.com/dklongley/image/upload/w_800/sausages.jpg'
 thumb_image: 'https://res.cloudinary.com/dklongley/image/upload/w_400/sausages.jpg'
 ---
