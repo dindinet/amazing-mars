@@ -14,4 +14,4 @@ author: data/authors/person-d5xranvfb.json
 ---
 ## More Sausages Less Waste
 
-Hunting is hard work. Wasting any part of what you catch is foolish.  Thisi ssomething our early ancestors knew all about. They appreciated the importance of survival in an unforgiving world.
+Hunting is hard work. Wasting any part of what you catch is foolish.  This is something our early ancestors knew all about. They appreciated the importance of survival in an unforgiving world.
