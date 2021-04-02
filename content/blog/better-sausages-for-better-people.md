@@ -11,6 +11,7 @@ canonical_url: lorem-ipsum
 no_index: false
 layout: post
 author: data/authors/person-d5xranvfb.json
+image: images/2.jpg
 ---
 ## More Sausages Less Waste
 
