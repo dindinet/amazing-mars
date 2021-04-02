@@ -1,5 +1,5 @@
 ---
-title: Better people make better suasages
+title: Better People Make Better Sausages
 subtitle: lorem-ipsum
 date: '2021-04-02'
 excerpt: lorem-ipsum
