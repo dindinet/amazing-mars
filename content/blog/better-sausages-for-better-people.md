@@ -5,7 +5,7 @@ date: '2021-04-02'
 excerpt: Better Sausages Save the Planet
 image_alt: A Selection of Quality Sausages
 thumb_image_alt: Sausages can save planet earth
-meta_title: Sausages can save planet earth
+meta_title: Sausages can save planet Earth
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
