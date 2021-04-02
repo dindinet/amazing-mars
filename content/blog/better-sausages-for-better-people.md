@@ -1,6 +1,6 @@
 ---
 title: Better People Make Better Sausages
-subtitle: lorem-ipsum
+subtitle: Better Sausages Save the Planet
 date: '2021-04-02'
 excerpt: Better Sausages Save the Planet
 image_alt: lorem-ipsum
