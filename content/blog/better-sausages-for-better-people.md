@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: lorem-ipsumBetter Sausages make better
 subtitle: lorem-ipsum
 date: '2021-04-02'
 excerpt: lorem-ipsum
