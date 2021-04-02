@@ -11,8 +11,8 @@ canonical_url: lorem-ipsum
 no_index: false
 layout: post
 author: data/authors/person-d5xranvfb.json
-image: >-
-  https://res.cloudinary.com/dklongley/image/upload/w_800/sausages.jpg
+image: 'https://res.cloudinary.com/dklongley/image/upload/w_800/sausages.jpg'
+thumb_image: images/1_thumb.jpg
 ---
 ## More Sausages Less Waste
 
