@@ -4,7 +4,7 @@ subtitle: Better Sausages Save the Planet
 date: '2021-04-02'
 excerpt: Better Sausages Save the Planet
 image_alt: A Selection of Quality Sausages
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Sausages can save the planet
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
@@ -12,7 +12,7 @@ no_index: false
 layout: post
 author: data/authors/person-d5xranvfb.json
 image: 'https://res.cloudinary.com/dklongley/image/upload/w_800/sausages.jpg'
-thumb_image: https://res.cloudinary.com/dklongley/image/upload/w_400/sausages.jpg
+thumb_image: 'https://res.cloudinary.com/dklongley/image/upload/w_400/sausages.jpg'
 ---
 ## More Sausages Less Waste
 
