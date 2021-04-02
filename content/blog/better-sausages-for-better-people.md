@@ -11,9 +11,6 @@ canonical_url: lorem-ipsum
 no_index: false
 layout: post
 ---
-## Lorem ipsum
+## More Sausages Less Waste
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Hunting is hard work. Wasting any part of what you catch is foolish.  Thisi ssomething our early ancestors knew all about. They appreciated the importance of survival in an unforgiving world.
