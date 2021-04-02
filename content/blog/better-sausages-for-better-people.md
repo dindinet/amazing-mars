@@ -11,7 +11,7 @@ canonical_url: lorem-ipsum
 no_index: false
 layout: post
 author: data/authors/person-d5xranvfb.json
-image: images/2.jpg
+image: https://www.thespruceeats.com/thmb/CSMVahNzqG_Z0AWjRjxSTj3uuhE=/1948x1096/smart/filters:no_upscale()/John-Anthony-Rizzo-5746f0703df78c6bb077d243.jpg
 ---
 ## More Sausages Less Waste
 
