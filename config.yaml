@@ -25,7 +25,7 @@ params:
         url: /signup
         style: primary
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: /terms-of-service
         style: link
         has_icon: false
         icon: arrow-left
