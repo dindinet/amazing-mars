@@ -26,7 +26,7 @@ params:
         style: primary
       - label: Terms
         url: /terms-of-service
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
