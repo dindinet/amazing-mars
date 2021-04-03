@@ -27,7 +27,7 @@ params:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
-        u
+        
         has_icon: false
         icon: arrow-left
         icon_position: left
