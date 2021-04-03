@@ -24,7 +24,7 @@ params:
       - label: Sign Up
         url: /signup
         style: primary
-      - label: terms
+      - label: Terms
         url: /terms-of-service
         style: link
         has_icon: false
