@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: https://i.ytimg.com/vi/8r3kWLgeLg8/maxresdefault.jpg #images/2.jpg
+    image: 'https://i.ytimg.com/vi/8r3kWLgeLg8/maxresdefault.jpg'
     image_alt: App preview
     title: Everyone is on the Phone ADHD a GoGo
     content: >-
@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cool Feature of Your Services
-        image: https://starter-gatsby-aeef9.netlify.app/images/nice-oranges.png
+        image: 'https://starter-gatsby-aeef9.netlify.app/images/nice-oranges.png'
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
@@ -85,6 +85,11 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      - author: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
