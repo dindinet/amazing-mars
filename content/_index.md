@@ -87,8 +87,8 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
       - author: Jane Row
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Catsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
         avatar: images/5.jpg
   - section_id: call-to-action
