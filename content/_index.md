@@ -17,7 +17,7 @@ sections:
     title: Get the skinny with our FAQ
     background: gray
     faq_items:
-      - question: DO you really get shit done? Shit that works?
+      - question: Do you really get sh**t done? Sh**t that works?
         answer: >
           We certainly think so. But don't just take our word for it. 
 
