@@ -18,6 +18,7 @@ sections:
     background: gray
     faq_items: []
     type: section_faq
+    subtitle: cos everybody has questions
   - section_id: features
     type: section_features
     background: gray
