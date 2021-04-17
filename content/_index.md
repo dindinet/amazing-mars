@@ -13,7 +13,7 @@ sections:
       - label: Dream More Often
         url: /features
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: home-faq
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
