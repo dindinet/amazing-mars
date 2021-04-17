@@ -16,7 +16,22 @@ sections:
   - section_id: home-faq
     title: Get the skinny with our FAQ
     background: gray
-    faq_items: []
+    faq_items:
+      - question: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        type: faq_item
     type: section_faq
     subtitle: '''cos everybody has questions'
   - section_id: features
