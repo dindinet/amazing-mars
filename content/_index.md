@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
   - section_id: home-faq
-    title: lorem-ipsum
+    title: Get the skinny with our faq
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
