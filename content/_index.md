@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
   - section_id: home-faq
-    title: Get the skinny with our F A Q
+    title: Get the skinny with our FA Q
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
