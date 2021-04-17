@@ -18,17 +18,12 @@ sections:
     background: gray
     faq_items:
       - question: DO you really get shit done? Shit that works?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          We certainly think so. But don't just take our word for it. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Take a look at what our [growing clients are
+          saying](https://amazing-oranges.netlify.app/#reviews). 
         type: faq_item
     type: section_faq
     subtitle: '''cos everybody has questions'
