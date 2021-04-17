@@ -17,7 +17,7 @@ sections:
     title: Get the skinny with our FAQ
     background: gray
     faq_items:
-      - question: DO you really get shit done
+      - question: DO you really get shit done? Shit that works
         answer: >-
           ## Lorem ipsum
 
