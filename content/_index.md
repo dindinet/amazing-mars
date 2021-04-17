@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: 'https://i.ytimg.com/vi/8r3kWLgeLg8/maxresdefault.jpg'
+    image: images/2.jpg
     image_alt: App preview
     title: Everyone is on the Phone ADHD a GoGo
     content: >-
